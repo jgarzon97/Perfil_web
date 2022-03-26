@@ -2,6 +2,8 @@
     --nunito: 'Nunito', sans-serif;
     --montserrat: 'Montserrat', sans-serif;
     --orange: #FF9301;
+    --white : white;
+    --black : rgba(50, 50, 50, 0.200);
 }
 
 p, li {
