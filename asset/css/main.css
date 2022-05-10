@@ -1,7 +1,7 @@
 :root {
     --nunito: 'Nunito', sans-serif;
     --montserrat: 'Montserrat', sans-serif;
-    --orange: #FF9301;
+    --orange: #425eab;
     --white : white;
 }
 
@@ -208,7 +208,7 @@ footer {
 
 .section-title::before {
     content: "";
-    background: #FFDFB3;
+    background: #899ccf;
     width: 60px;
     height: 60px;
     position: absolute;
